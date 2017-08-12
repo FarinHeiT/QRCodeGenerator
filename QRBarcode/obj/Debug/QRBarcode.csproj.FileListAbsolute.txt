@@ -1,0 +1,17 @@
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\obj\Debug\QRBarcode.csprojResolveAssemblyReference.cache
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\obj\Debug\QRBarcode.Form1.resources
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\obj\Debug\QRBarcode.Properties.Resources.resources
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\obj\Debug\QRBarcode.csproj.GenerateResource.Cache
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\QRBarcode.exe.config
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\QRBarcode.exe
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\QRBarcode.pdb
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\QRCoder.dll
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\UnityEngine.dll
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\zxing.dll
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\zxing.presentation.dll
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\zxing.pdb
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\zxing.xml
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\zxing.presentation.pdb
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\bin\Debug\zxing.presentation.xml
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\obj\Debug\QRBarcode.exe
+D:\All\Programms\PROGRAMMING\c#projects\vs\QRBarcode\QRBarcode\obj\Debug\QRBarcode.pdb
